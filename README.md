@@ -1,5 +1,5 @@
 # EVC-SUMO
-This repository will support CARLA and SUMO simulation environments as a co-simulation using the MOSAIC framework to facilitate coordination and data exchange. This co-simulation environment will also utilize NS-3 to simulate the communications used by the C-ADS systems.
+This repository has Econolite Virtual Controller (EVC)-SUMO bridge tool that is a part of XiL co-simulation tool. This bridge acts as a mediator between EVC (via the PyEOS Python package) and SUMO, integrating the exchange of traffic light status and detector status.
 
 ## Contribution
 Welcome to the CARMA contributing guide. Please read this guide to learn about our development process, how to propose pull requests and improvements, and how to build and test your changes to this project. [CARMA Contributing Guide](https://github.com/usdot-fhwa-stol/carma-platform/blob/develop/Contributing.md)
