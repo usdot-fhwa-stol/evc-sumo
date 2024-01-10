@@ -1,6 +1,6 @@
 # EVC-SUMO
 This repository has Econolite Virtual Controller (EVC)-SUMO bridge tool that is a part of XiL co-simulation tool. This bridge acts as a mediator between EVC (via the PyEOS Python package) and SUMO, integrating the exchange of traffic light status and detector status.
-
+NOTE: Currently, in order to build and use the docker image, the tool needs proprietary github-token accessible to the members of the usdot-fhwa-stol organization due to Econolite's license.
 ## Contribution
 Welcome to the CARMA contributing guide. Please read this guide to learn about our development process, how to propose pull requests and improvements, and how to build and test your changes to this project. [CARMA Contributing Guide](https://github.com/usdot-fhwa-stol/carma-platform/blob/develop/Contributing.md)
 
